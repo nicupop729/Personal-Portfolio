@@ -1,75 +1,56 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio
 
-> One paragraph statement about the project.
+> This is the personal Portfolio of Nicolae Pop
 
-![screenshot](./app_screenshot.png)
+![screenshot](./src/resources/Portofolio-first-page.jpg)
 
-Additional description about the project and its features.
+This is my portfolio website revealing my skills and projects. Built with HTML, JavaScript and CSS.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- Javascript
+- Git & GitHub
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
+
+- Please make sure you have Node.js packedge installed on your terminal and an IDE.
 
 ### Setup
 
+To get a local copy up and running follow these simple steps.
+
+To setup the portfolio project in your local, in the repo page:
+click on code (dropdown list) > Download as ZIP;
+or open terminal of path you want to install project and run this command <br>
+**`$ git clone git@github.com:nicupop729/Personal-Portfolio.git`**.
+
 ### Install
 
-### Usage
+Run in your terminal the following commands:
 
-### Run tests
-
-### Deployment
-
+**`$ cd Personal-Portfolio/`**<br>
+**`$ live-server`**
 
 
-## Authors
+👤 **Nicolae Pop**
 
-👤 **Author1**
+- GitHub: [@nicupop729](https://github.com/nicupop729)
+- Twitter: [@nicupop729](https://twitter.com/nicupop729)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolae-pop/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Oluwaseun Bello**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
+- GitHub: [@bellom](https://github.com/bellom)
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+This Portfolio Project was build using Figma templates under continuous supervision of Microverse team!!
 
 ## 📝 License
 
